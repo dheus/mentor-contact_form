@@ -17,7 +17,7 @@ Built with:
 ![alt text](./design/desktop-preview.jpg)
 
 ## Sources 
-https://github.com/bc-web-ohjelmistokehitys/JS_WP24K
+https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj
 
 ## Authors and acknowledgment
 
