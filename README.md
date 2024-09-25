@@ -7,11 +7,11 @@ The project was created to complete the course requirements and demonstrate the 
 Built with: 
 
 - HTML
-- JS
+- CSS
 
 ## Setup and usage
 - Clone the repository or download the project files from GitHub.
-- Run the JavaScript files using Node.js or use the Live Server extension in Visual Studio Code to view the project in the browser.
+- Open the index.html file in your web browser to view the project.
   
 ## Screenshot 
 ![alt text](./design/desktop-preview.jpg)
